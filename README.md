@@ -44,3 +44,43 @@ Familiarity with the following topics is helpful but not required:
 - REST APIs and data formats such as JSON.
 - Command-line tools and dependency management.
 - Relational databases and basic data persistence.
+
+### Technical Environment and Access Requirements
+
+Students need regular access to a computer capable of supporting software development activities, including source-code editing, dependency management, automated testing, version control, and application execution.
+
+Practical activities may require:
+
+- A modern web browser.
+- A source-code editor or integrated development environment (IDE).
+- Git and access to a Git-compatible repository hosting platform.
+- Command-line tools.
+- Programming language runtimes, build tools, and dependencies required by the selected projects.
+- Access to at least one AI assistant or Large Language Model (LLM) interface.
+- Additional tools, libraries, containers, APIs, or local AI model environments introduced in specific modules.
+
+Detailed installation and configuration instructions will be provided for each activity. **Students are expected to maintain a functional development environment and verify the required installations before beginning each practical activity.**
+
+### Tool Availability and Alternatives
+
+The course does not require students to purchase commercial AI subscriptions. Whenever feasible, practical activities will support free tiers, educational access, institutionally provided services, open-weight models, or local alternatives.
+
+When an activity demonstrates a specific commercial product, students may use an equivalent tool, subject to instructor approval, provided that it satisfies the learning objectives and activity requirements. The instructor may update the selected tools between course offerings based on technological developments, licensing conditions, availability, and institutional resources.
+
+### Local Model Requirements
+
+A dedicated graphics processing unit (GPU) is not a general prerequisite for the course. Activities involving local AI models will use model sizes and configurations appropriate to the available hardware.
+
+If a student's computer cannot run a selected local model adequately, the instructor may offer an alternative model, shared laboratory environment, remote service, demonstration-based activity, or equivalent analysis task.
+
+### Accounts, Credentials, and Costs
+
+Students are responsible for protecting their accounts, access tokens, API keys, and repository credentials. **Secrets must never be committed to version-control repositories or exposed in submitted prompts, source code, screenshots, logs, or reports.**
+
+Activities involving potential usage-based costs will specify expected limits and available alternatives in advance. Students will not be required to incur unannounced expenses to complete course activities.
+
+### Software and Project Compatibility
+
+Student-selected projects must be compatible with the available development environment and feasible within the course workload.
+
+The instructor may restrict programming languages, frameworks, repository sizes, external dependencies, or deployment environments when necessary to ensure that projects remain technically feasible, adequately supported, and assessable.
