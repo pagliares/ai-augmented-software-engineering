@@ -158,3 +158,132 @@ The course is organized into **5 units and 15 modules**, progressing from founda
 **Module 15** examines security, privacy, intellectual property, ethics, governance, and the future of software engineering in the context of AI-augmented development.
 
 The **greenfield and brownfield running examples** are revisited throughout the five units, allowing students to explore how AI-augmented software engineering practices apply to both new software development and the maintenance and evolution of existing systems.
+
+## Course Modules
+
+The course consists of **15 modules and 78 video lessons**, organized into five units. Each module combines theoretical foundations with practical applications of AI-augmented software engineering.
+
+Estimated video durations are indicated for each module and lesson.
+
+### Module 1 — Introduction to AI-Augmented Software Engineering (~52 min)
+
+1.1 Course Overview, Learning Approach, and Assessment (~8 min)  
+1.2 From Traditional Software Engineering to AI-Augmented Practice (~12 min)  
+1.3 Generative AI Across the Software Development Life Cycle (~10 min)  
+1.4 Levels of AI Involvement: Augmentation, Automation, Autonomy, and Human Accountability (~12 min)  
+1.5 Introducing the Greenfield and Brownfield Examples (~10 min)
+
+### Module 2 — Foundations of Generative AI and Large Language Models (~52 min)
+
+2.1 Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI (~12 min)  
+2.2 How Large Language Models Are Trained and Generate Outputs (~14 min)  
+2.3 Tokens, Context Windows, Embeddings, and Retrieval Foundations (~14 min)  
+2.4 Capabilities, Reasoning Behavior, Hallucinations, and Limitations (~12 min)
+
+### Module 3 — Prompt and Context Engineering for Software Engineers (~64 min)
+
+3.1 Task Framing and Prompt Design Principles (~10 min)  
+3.2 Context Selection and Repository Instructions (~12 min)  
+3.3 Structured Outputs, Templates, and Constraints (~10 min)  
+3.4 Prompt Patterns, Task Decomposition, and Iterative Refinement (~12 min)  
+3.5 Greenfield Example: Prompting for New Software Development (~10 min)  
+3.6 Brownfield Example: Prompting with Existing Code and Documentation (~10 min)
+
+### Module 4 — AI-Assisted Requirements Engineering (~62 min)
+
+4.1 AI-Supported Requirements Elicitation and Discovery (~10 min)  
+4.2 User Stories, Acceptance Criteria, and Quality Requirements (~12 min)  
+4.3 Requirements Analysis: Ambiguity, Conflicts, Gaps, and Prioritization (~10 min)  
+4.4 Requirements Validation, Traceability, and Human Approval (~10 min)  
+4.5 Greenfield Example: Developing Requirements for a New System (~10 min)  
+4.6 Brownfield Example: Recovering and Validating Existing Requirements (~10 min)
+
+### Module 5 — AI-Assisted Software Architecture and Design (~66 min)
+
+5.1 Architecture Drivers, Constraints, and AI-Generated Alternatives (~12 min)  
+5.2 UML and System Modeling with AI Assistance (~12 min)  
+5.3 Design Patterns, Responsibilities, and Trade-Offs (~12 min)  
+5.4 Architecture Evaluation, Decision Records, and Human Review (~10 min)  
+5.5 Greenfield Example: Designing a New Software Architecture (~10 min)  
+5.6 Brownfield Example: Architecture Recovery and Design Improvement (~10 min)
+
+### Module 6 — AI Coding Assistants and AI-Powered Development Environments (~60 min)
+
+6.1 AI Coding Assistants and Development Environments (~10 min)  
+6.2 Context-Aware Code Generation and Completion (~12 min)  
+6.3 Code Comprehension, Debugging, and Refactoring (~12 min)  
+6.4 Documentation Generation and Maintenance (~8 min)  
+6.5 Greenfield Example: Implementing a New Feature with AI Assistance (~9 min)  
+6.6 Brownfield Example: Understanding and Improving Existing Code (~9 min)
+
+### Module 7 — Verification and Evaluation of AI-Generated Software Artifacts (~60 min)
+
+7.1 Why Verification Matters in AI-Augmented Development (~10 min)  
+7.2 Evaluating AI-Generated Requirements (~10 min)  
+7.3 Evaluating AI-Generated Architectures and Designs (~10 min)  
+7.4 Evaluating AI-Generated Code and Tests (~15 min)  
+7.5 Human Review, Traceability, and Verification Evidence (~15 min)
+
+### Module 8 — AI-Assisted Testing and Quality Assurance (~62 min)
+
+8.1 AI-Assisted Test Design and Test Case Generation (~10 min)  
+8.2 Unit, Integration, and Regression Testing with AI Assistance (~12 min)  
+8.3 Evaluating AI-Generated Tests and Test Oracles (~10 min)  
+8.4 Testing Non-Deterministic and LLM-Enabled Features (~10 min)  
+8.5 Greenfield Example: Designing and Implementing a Test Strategy (~10 min)  
+8.6 Brownfield Example: Characterization Testing and Increasing Legacy Test Coverage (~10 min)
+
+### Module 9 — Human–AI Collaboration and Developer Control (~40 min)
+
+9.1 Models of Human–AI Collaboration in Software Engineering (~10 min)  
+9.2 Human-in-the-Loop Development, Approval, and Developer Control (~10 min)  
+9.3 Vibe Coding: Characteristics, Appropriate Uses, and Risks (~10 min)  
+9.4 Productivity, Quality, Learning, and Skill Retention (~10 min)
+
+### Module 10 — AI Agents (~56 min)
+
+10.1 From LLM Applications to AI Agents (~10 min)  
+10.2 Core Agent Components: Models, Instructions, State, and Environment (~12 min)  
+10.3 Tool Use and Function Calling (~12 min)  
+10.4 Agent Architectures: Reactive, Planning, Single-Agent, and Multi-Agent Systems (~12 min)  
+10.5 Greenfield Example: Creating an Agent for a New Application (~7 min)  
+10.6 Brownfield Example: Introducing an Agent into an Existing System (~7 min)
+
+### Module 11 — Agentic Workflows, Human Oversight, and MCP (~60 min)
+
+11.1 Workflows Versus Agents (~10 min)  
+11.2 Task Decomposition, Orchestration, and Execution Control (~12 min)  
+11.3 Human Approval, Feedback Loops, and Guardrails (~10 min)  
+11.4 Agentic Software Development Workflows (~12 min)  
+11.5 Introduction to the Model Context Protocol (MCP) (~8 min)  
+11.6 MCP Servers, Tools, and Development Environments (~8 min)
+
+### Module 12 — Building AI-Augmented Applications (~66 min)
+
+12.1 LLM APIs and Application Integration (~12 min)  
+12.2 Retrieval-Augmented Generation (RAG) (~14 min)  
+12.3 Designing AI Features in Software Products (~10 min)  
+12.4 Integration Patterns, Reliability, and Observability (~12 min)  
+12.5 AI-Assisted UI/UX Design and Rapid Prototyping (~8 min)  
+12.6 Generating and Evaluating Front-End Applications with AI (~10 min)
+
+### Module 13 — Local and Open Models (~44 min)
+
+13.1 Open-Weight, Open-Source, and Proprietary Models (~10 min)  
+13.2 Running and Managing Local Models with Ollama (~12 min)  
+13.3 Exploring and Serving Local Models with LM Studio (~10 min)  
+13.4 Model Selection and Deployment Trade-Offs (~12 min)
+
+### Module 14 — AI-Assisted DevOps, Software Delivery, and Operational Reliability (~52 min)
+
+14.1 AI in Git Workflows, Issues, and Pull Requests (~12 min)  
+14.2 AI-Assisted CI/CD Pipeline Development and Maintenance (~12 min)  
+14.3 Quality Gates, Security Checks, and Release Readiness (~14 min)  
+14.4 Deployment, Release Management, Monitoring, and Rollback (~14 min)
+
+### Module 15 — Responsible AI-Augmented Software Engineering and Future Trends (~50 min)
+
+15.1 Security Risks of AI-Augmented Development (~12 min)  
+15.2 Privacy, Copyright, Licensing, and Intellectual Property (~12 min)  
+15.3 Governance, Ethics, and Responsible Professional Practice (~14 min)  
+15.4 The Future of Software Engineering Work and Education (~12 min)
