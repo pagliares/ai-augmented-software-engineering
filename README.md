@@ -84,3 +84,28 @@ Activities involving potential usage-based costs will specify expected limits an
 Student-selected projects must be compatible with the available development environment and feasible within the course workload.
 
 The instructor may restrict programming languages, frameworks, repository sizes, external dependencies, or deployment environments when necessary to ensure that projects remain technically feasible, adequately supported, and assessable.
+
+## Running Examples
+
+Throughout the course, two instructor-led examples will demonstrate the practical application of AI-augmented software engineering techniques:
+
+- **BlueVelvet Music Store (Greenfield):** Development of selected, prioritized features of a new e-commerce application from scratch.
+- **Sparkling Waters Hostel (Brownfield):** Analysis, maintenance, and evolution of selected features of an existing hostel management and reservation system, including guest management, authentication, and role-based authorization.
+
+These examples will be revisited across multiple course modules to illustrate how AI can support different activities throughout the Software Development Life Cycle (SDLC). Students will apply similar techniques to their own greenfield and brownfield projects, which may involve different application domains and technologies.
+
+### Greenfield Development: BlueVelvet Music Store
+
+**BlueVelvet Music Store** is a new e-commerce application whose selected, prioritized features will be developed from scratch. It will demonstrate how AI can support requirements elicitation and refinement, software architecture and interface design, implementation, automated testing, documentation, deployment, and software evolution.
+
+Because the application starts without an existing codebase, this example will illustrate how developers can use AI to explore alternatives, generate initial software artifacts, evaluate proposed solutions, and progressively transform requirements into a working software product.
+
+### Brownfield Development: Sparkling Waters Hostel
+
+**Sparkling Waters Hostel** is an existing hostel management and reservation system developed using Spring Boot and front-end technologies, including HTML, CSS, JavaScript, and Bootstrap. The system includes basic guest management, authentication, and role-based authorization functionality, providing a foundation for software maintenance and evolution activities.
+
+This example will demonstrate how AI can support program comprehension, requirements and architecture recovery, codebase exploration, debugging, refactoring, test generation, documentation improvement, and feature enhancement. Potential evolution activities include improving the existing software design and implementing or enhancing guest reservation management.
+
+The brownfield example will also emphasize that **AI-generated recommendations and changes must be validated** against the existing codebase, architecture, requirements, and tests before being accepted.
+
+The running examples may be updated in future course offerings while preserving their complementary greenfield and brownfield perspectives.
