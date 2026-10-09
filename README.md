@@ -24,6 +24,24 @@ This course is intended for **undergraduate Computer Science students** who have
 
 **No prior experience with Artificial Intelligence (AI), Machine Learning (ML), Large Language Models (LLMs), or AI coding assistants is required.** The necessary conceptual foundations and practical techniques will be introduced progressively throughout the course.
 
+## Weekly Workload
+
+The course spans **15 weeks**, with an expected workload of **4 hours per week**, totaling **60 hours**. Each week combines concise theoretical lessons with guided and independent practical activities.
+
+Video lessons introduce the concepts, techniques, tools, and running examples associated with each module. The remaining weekly workload is dedicated to readings, exercises, hands-on activities, evaluation of AI-generated artifacts, and incremental development of the greenfield and brownfield projects.
+
+A typical week includes:
+
+- Approximately 40–75 minutes of video lessons.
+- Guided hands-on exercises related to the module.
+- Incremental work on the greenfield or brownfield project.
+- Review and evaluation of AI-generated software artifacts.
+- Short readings, quizzes, or reflective activities.
+
+Depending on the module, students may produce **prompts, requirements, user stories, architectural models, source code, automated tests, documentation, evaluation reports, or working software increments**.
+
+Practical activities must document not only how AI tools were used, but also **how students reviewed, verified, corrected, and refined AI-generated outputs**, including the reasoning behind relevant engineering decisions.
+
 ## Prerequisites
 
 ### Required Prerequisites
