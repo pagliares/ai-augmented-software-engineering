@@ -4,8 +4,6 @@
 **Institution:** Universidade Federal de Alfenas (UNIFAL-MG), Brazil  
 **Course:** Computer Science
 
-
-
 ## Course Description
 
 This repository contains the learning materials and resources for the **AI-Augmented Software Engineering** course.
@@ -25,3 +23,24 @@ By the end of the course, students will be prepared not only to use modern AI de
 This course is intended for **undergraduate Computer Science students** who have completed introductory courses in programming and software engineering. It is particularly suitable for students who are comfortable reading, writing, testing, and modifying software systems.
 
 **No prior experience with Artificial Intelligence (AI), Machine Learning (ML), Large Language Models (LLMs), or AI coding assistants is required.** The necessary conceptual foundations and practical techniques will be introduced progressively throughout the course.
+
+## Prerequisites
+
+### Required Prerequisites
+
+Students should have:
+
+- Foundational knowledge of **object-oriented programming**.
+- Foundational knowledge of **software engineering principles** and the **Software Development Life Cycle (SDLC)**.
+- Basic experience with **Git** and version control workflows.
+- The ability to **build, run, debug, and modify** software written in at least one programming language.
+
+### Recommended Prior Knowledge
+
+Familiarity with the following topics is helpful but not required:
+
+- Unit testing and automated software testing.
+- Web applications and client-server architectures.
+- REST APIs and data formats such as JSON.
+- Command-line tools and dependency management.
+- Relational databases and basic data persistence.
