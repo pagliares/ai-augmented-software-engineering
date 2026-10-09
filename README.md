@@ -124,3 +124,11 @@ By the end of this course, students will be able to:
 8. **Apply** AI-augmented software engineering practices to greenfield development and brownfield software maintenance and evolution.
 9. **Document** AI tool usage, generated outputs, verification evidence, and human decisions concerning their review, correction, and acceptance.
 10. **Develop and evaluate** software increments in greenfield and brownfield projects using responsible AI-augmented software engineering practices.
+
+## Course Statistics
+
+- **Units:** 5
+- **Modules:** 15
+- **Video lessons:** 78
+- **Video content:** Approximately 30 hours
+- **Total student workload:** 120 hours
