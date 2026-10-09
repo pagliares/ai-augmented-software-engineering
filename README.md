@@ -109,3 +109,18 @@ This example will demonstrate how AI can support program comprehension, requirem
 The brownfield example will also emphasize that **AI-generated recommendations and changes must be validated** against the existing codebase, architecture, requirements, and tests before being accepted.
 
 The running examples may be updated in future course offerings while preserving their complementary greenfield and brownfield perspectives.
+
+## Learning Objectives
+
+By the end of this course, students will be able to:
+
+1. **Explain** the foundations, capabilities, and limitations of Generative AI and Large Language Models (LLMs).
+2. **Design and evaluate** prompts, structured outputs, and reusable AI interaction patterns for software engineering tasks.
+3. **Apply** AI coding assistants to support software implementation, debugging, refactoring, testing, and documentation.
+4. **Use** AI agents, tools, and agentic workflows while incorporating appropriate human oversight, feedback, and approval mechanisms.
+5. **Design and develop** software applications that integrate AI capabilities through LLM APIs, Retrieval-Augmented Generation (RAG), and local AI models.
+6. **Critically evaluate** AI-generated software artifacts, including requirements, designs, source code, tests, and documentation.
+7. **Assess** software quality, security, privacy, ethical, intellectual property, and governance implications of AI-augmented software engineering.
+8. **Apply** AI-augmented software engineering practices to greenfield development and brownfield software maintenance and evolution.
+9. **Document** AI tool usage, generated outputs, verification evidence, and human decisions concerning their review, correction, and acceptance.
+10. **Develop and evaluate** software increments in greenfield and brownfield projects using responsible AI-augmented software engineering practices.
