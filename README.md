@@ -417,3 +417,24 @@ Particular attention will be given to traceability, least-privilege access, huma
 This module examines the broader responsibilities associated with adopting AI in software engineering. Students will analyze security and privacy risks, copyright and licensing concerns, organizational governance, ethical responsibilities, and the effects of AI on professional roles and practices.
 
 The module concludes by examining how software engineers can adapt to technological change while preserving foundational engineering principles, technical understanding, human accountability, and responsibility for software outcomes.
+
+## Hands-On Activities
+
+Each module includes hands-on activities in which students apply the concepts and techniques introduced in the video lessons. These activities combine guided experimentation, critical evaluation of AI-generated software artifacts, and incremental development of the greenfield and brownfield projects.
+
+Depending on the module, students may be asked to:
+
+- Design, compare, and refine prompts for software engineering tasks.
+- Generate and evaluate requirements, user stories, acceptance criteria, and software models.
+- Use AI coding assistants to implement, understand, debug, refactor, and document software.
+- Generate, execute, and evaluate automated tests.
+- Examine AI-generated artifacts for errors, unsupported assumptions, security vulnerabilities, and quality issues.
+- Design and implement workflows involving AI agents, external tools, APIs, Retrieval-Augmented Generation (RAG), or local AI models.
+- Evaluate alternative solutions based on software quality, privacy, security, cost, and maintainability.
+- Apply AI-augmented software engineering techniques to their own greenfield or brownfield project components.
+
+Hands-on activities may be completed **individually or collaboratively**, depending on their learning objectives. Some activities will be exploratory and formative, while others will produce software artifacts that contribute directly to project milestones.
+
+Students are expected to retain relevant **evidence of AI-assisted development**, including prompts, generated outputs, source-code changes, test results, reviews, corrections, and engineering decisions.
+
+The purpose of this evidence is **not to document every interaction with an AI system**, but to demonstrate meaningful AI assistance, critical evaluation, verification, and student accountability for the resulting software artifacts.
