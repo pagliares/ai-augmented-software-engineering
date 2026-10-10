@@ -28,36 +28,11 @@ By the end of the course, students will be prepared not only to use modern AI de
 
 ## Course Structure
 
-The course is organized into **5 units and 15 modules**, progressing from foundational concepts to the responsible development, delivery, and evolution of AI-augmented software systems.
+The course is organized into **5 unitsm 15 modules, and around 80 video lessons**, progressing from foundational concepts to the responsible development, delivery, and evolution of AI-augmented software systems.
 
 ### Unit 1 — Foundations of AI-Augmented Software Engineering
 
 **Modules 1–3** introduce the AI-augmented software engineering paradigm, the foundations of Generative AI and Large Language Models (LLMs), and prompt engineering techniques applied to software engineering.
-
-### Unit 2 — AI Across the Software Development Life Cycle
-
-**Modules 4–8** explore how AI can support requirements engineering, software architecture and design, implementation, software artifact evaluation, testing, and quality assurance.
-
-### Unit 3 — Human–AI Collaboration and Agentic Development
-
-**Modules 9–11** address human–AI collaboration, vibe coding, AI agents, agentic workflows, tool integration, human oversight and approval, and the Model Context Protocol (MCP).
-
-### Unit 4 — Building and Delivering AI-Augmented Applications
-
-**Modules 12–14** cover the development of applications that integrate AI capabilities, Retrieval-Augmented Generation (RAG), local and open-weight models, AI-assisted DevOps, and software deployment and delivery.
-
-### Unit 5 — Responsible Practice and Future Directions
-
-**Module 15** examines security, privacy, intellectual property, ethics, governance, and the future of software engineering in the context of AI-augmented development.
-
-The **greenfield and brownfield running examples** are revisited throughout the five units, allowing students to explore how AI-augmented software engineering practices apply to both new software development and the maintenance and evolution of existing systems.
-
-## Course Modules
-
-The course consists of **15 modules and 78 video lessons**, organized into five units. Each module combines theoretical foundations with practical applications of AI-augmented software engineering.
-
-Estimated video durations are indicated for each module and lesson.
-
 
 ### Module 1 — Introduction to AI-Augmented Software Engineering (~52 min)
 
@@ -115,6 +90,10 @@ The module also emphasizes that prompts and contextual materials are integral pa
 3.4 Prompt Patterns, Task Decomposition, and Iterative Refinement (~12 min)  
 3.5 Greenfield Example: Prompting for New Software Development (~10 min)  
 3.6 Brownfield Example: Prompting with Existing Code and Documentation (~10 min)
+
+### Unit 2 — AI Across the Software Development Life Cycle
+
+**Modules 4–8** explore how AI can support requirements engineering, software architecture and design, implementation, software artifact evaluation, testing, and quality assurance.
 
 ### Module 4 — AI-Assisted Requirements Engineering (~62 min)
 
@@ -213,6 +192,10 @@ Students will also be introduced to testing strategies for software features tha
 8.5 Greenfield Example: Designing and Implementing a Test Strategy (~10 min)  
 8.6 Brownfield Example: Characterization Testing and Increasing Legacy Test Coverage (~10 min)
 
+### Unit 3 — Human–AI Collaboration and Agentic Development
+
+**Modules 9–11** address human–AI collaboration, vibe coding, AI agents, agentic workflows, tool integration, human oversight and approval, and the Model Context Protocol (MCP).
+
 ### Module 9 — Human–AI Collaboration and Developer Control (~40 min)
 
 <details>
@@ -266,6 +249,10 @@ The emphasis is placed on task decomposition, orchestration, execution control, 
 11.4 Agentic Software Development Workflows (~12 min)  
 11.5 Introduction to the Model Context Protocol (MCP) (~8 min)  
 11.6 MCP Servers, Tools, and Development Environments (~8 min)
+
+### Unit 4 — Building and Delivering AI-Augmented Applications
+
+**Modules 12–14** cover the development of applications that integrate AI capabilities, Retrieval-Augmented Generation (RAG), local and open-weight models, AI-assisted DevOps, and software deployment and delivery.
 
 ### Module 12 — Building AI-Augmented Applications (~66 min)
 
@@ -321,6 +308,10 @@ Particular attention will be given to traceability, least-privilege access, huma
 14.3 Quality Gates, Security Checks, and Release Readiness (~14 min)  
 14.4 Deployment, Release Management, Monitoring, and Rollback (~14 min)
 
+### Unit 5 — Responsible Practice and Future Directions
+
+**Module 15** examines security, privacy, intellectual property, ethics, governance, and the future of software engineering in the context of AI-augmented development.
+
 ### Module 15 — Responsible AI-Augmented Software Engineering and Future Trends (~50 min)
 
 <details>
@@ -336,6 +327,9 @@ The module concludes by examining how software engineers can adapt to technologi
 15.2 Privacy, Copyright, Licensing, and Intellectual Property (~12 min)  
 15.3 Governance, Ethics, and Responsible Professional Practice (~14 min)  
 15.4 The Future of Software Engineering Work and Education (~12 min)
+
+The **greenfield and brownfield running examples** are revisited throughout the five units, allowing students to explore how AI-augmented software engineering practices apply to both new software development and the maintenance and evolution of existing systems.
+
 
 ## Learning Objectives
 
