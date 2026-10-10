@@ -18,70 +18,6 @@ The course also addresses the limitations and risks of AI-augmented development,
 
 By the end of the course, students will be prepared not only to use modern AI development tools but also to select appropriate techniques, critically evaluate their results, and responsibly integrate them into systematic software engineering processes.
 
-## Target Audience
-
-This course is intended for **undergraduate Computer Science students** who have completed introductory courses in programming and software engineering. It is particularly suitable for students who are comfortable reading, writing, testing, and modifying software systems.
-
-**No prior experience with Artificial Intelligence (AI), Machine Learning (ML), Large Language Models (LLMs), or AI coding assistants is required.** The necessary conceptual foundations and practical techniques will be introduced progressively throughout the course.
-
-## Weekly Workload
-
-The course spans **15 weeks**, with an expected workload of **4 hours per week**, totaling **60 hours**. Each week combines concise theoretical lessons with guided and independent practical activities.
-
-Video lessons introduce the concepts, techniques, tools, and running examples associated with each module. The remaining weekly workload is dedicated to readings, exercises, hands-on activities, evaluation of AI-generated artifacts, and incremental development of the greenfield and brownfield projects.
-
-A typical week includes:
-
-- Approximately 40–75 minutes of video lessons.
-- Guided hands-on exercises related to the module.
-- Incremental work on the greenfield or brownfield project.
-- Review and evaluation of AI-generated software artifacts.
-- Short readings, quizzes, or reflective activities.
-
-Depending on the module, students may produce **prompts, requirements, user stories, architectural models, source code, automated tests, documentation, evaluation reports, or working software increments**.
-
-Practical activities must document not only how AI tools were used, but also **how students reviewed, verified, corrected, and refined AI-generated outputs**, including the reasoning behind relevant engineering decisions.
-
-## Running Examples
-
-Throughout the course, two instructor-led examples will demonstrate the practical application of AI-augmented software engineering techniques:
-
-- **BlueVelvet Music Store (Greenfield):** Development of selected, prioritized features of a new e-commerce application from scratch.
-- **Sparkling Waters Hostel (Brownfield):** Analysis, maintenance, and evolution of selected features of an existing hostel management and reservation system, including guest management, authentication, and role-based authorization.
-
-These examples will be revisited across multiple course modules to illustrate how AI can support different activities throughout the Software Development Life Cycle (SDLC). Students will apply similar techniques to their own greenfield and brownfield projects, which may involve different application domains and technologies.
-
-### Greenfield Development: BlueVelvet Music Store
-
-**BlueVelvet Music Store** is a new e-commerce application whose selected, prioritized features will be developed from scratch. It will demonstrate how AI can support requirements elicitation and refinement, software architecture and interface design, implementation, automated testing, documentation, deployment, and software evolution.
-
-Because the application starts without an existing codebase, this example will illustrate how developers can use AI to explore alternatives, generate initial software artifacts, evaluate proposed solutions, and progressively transform requirements into a working software product.
-
-### Brownfield Development: Sparkling Waters Hostel
-
-**Sparkling Waters Hostel** is an existing hostel management and reservation system developed using Spring Boot and front-end technologies, including HTML, CSS, JavaScript, and Bootstrap. The system includes basic guest management, authentication, and role-based authorization functionality, providing a foundation for software maintenance and evolution activities.
-
-This example will demonstrate how AI can support program comprehension, requirements and architecture recovery, codebase exploration, debugging, refactoring, test generation, documentation improvement, and feature enhancement. Potential evolution activities include improving the existing software design and implementing or enhancing guest reservation management.
-
-The brownfield example will also emphasize that **AI-generated recommendations and changes must be validated** against the existing codebase, architecture, requirements, and tests before being accepted.
-
-The running examples may be updated in future course offerings while preserving their complementary greenfield and brownfield perspectives.
-
-## Learning Objectives
-
-By the end of this course, students will be able to:
-
-1. **Explain** the foundations, capabilities, and limitations of Generative AI and Large Language Models (LLMs).
-2. **Design and evaluate** prompts, structured outputs, and reusable AI interaction patterns for software engineering tasks.
-3. **Apply** AI coding assistants to support software implementation, debugging, refactoring, testing, and documentation.
-4. **Use** AI agents, tools, and agentic workflows while incorporating appropriate human oversight, feedback, and approval mechanisms.
-5. **Design and develop** software applications that integrate AI capabilities through LLM APIs, Retrieval-Augmented Generation (RAG), and local AI models.
-6. **Critically evaluate** AI-generated software artifacts, including requirements, designs, source code, tests, and documentation.
-7. **Assess** software quality, security, privacy, ethical, intellectual property, and governance implications of AI-augmented software engineering.
-8. **Apply** AI-augmented software engineering practices to greenfield development and brownfield software maintenance and evolution.
-9. **Document** AI tool usage, generated outputs, verification evidence, and human decisions concerning their review, correction, and acceptance.
-10. **Develop and evaluate** software increments in greenfield and brownfield projects using responsible AI-augmented software engineering practices.
-
 ## Course Statistics
 
 - **Units:** 5
@@ -324,6 +260,71 @@ The module concludes by examining how software engineers can adapt to technologi
 15.2 Privacy, Copyright, Licensing, and Intellectual Property (~12 min)  
 15.3 Governance, Ethics, and Responsible Professional Practice (~14 min)  
 15.4 The Future of Software Engineering Work and Education (~12 min)
+
+## Target Audience
+
+This course is intended for **undergraduate Computer Science students** who have completed introductory courses in programming and software engineering. It is particularly suitable for students who are comfortable reading, writing, testing, and modifying software systems.
+
+**No prior experience with Artificial Intelligence (AI), Machine Learning (ML), Large Language Models (LLMs), or AI coding assistants is required.** The necessary conceptual foundations and practical techniques will be introduced progressively throughout the course.
+
+## Weekly Workload
+
+The course spans **15 weeks**, with an expected workload of **4 hours per week**, totaling **60 hours**. Each week combines concise theoretical lessons with guided and independent practical activities.
+
+Video lessons introduce the concepts, techniques, tools, and running examples associated with each module. The remaining weekly workload is dedicated to readings, exercises, hands-on activities, evaluation of AI-generated artifacts, and incremental development of the greenfield and brownfield projects.
+
+A typical week includes:
+
+- Approximately 40–75 minutes of video lessons.
+- Guided hands-on exercises related to the module.
+- Incremental work on the greenfield or brownfield project.
+- Review and evaluation of AI-generated software artifacts.
+- Short readings, quizzes, or reflective activities.
+
+Depending on the module, students may produce **prompts, requirements, user stories, architectural models, source code, automated tests, documentation, evaluation reports, or working software increments**.
+
+Practical activities must document not only how AI tools were used, but also **how students reviewed, verified, corrected, and refined AI-generated outputs**, including the reasoning behind relevant engineering decisions.
+
+## Running Examples
+
+Throughout the course, two instructor-led examples will demonstrate the practical application of AI-augmented software engineering techniques:
+
+- **BlueVelvet Music Store (Greenfield):** Development of selected, prioritized features of a new e-commerce application from scratch.
+- **Sparkling Waters Hostel (Brownfield):** Analysis, maintenance, and evolution of selected features of an existing hostel management and reservation system, including guest management, authentication, and role-based authorization.
+
+These examples will be revisited across multiple course modules to illustrate how AI can support different activities throughout the Software Development Life Cycle (SDLC). Students will apply similar techniques to their own greenfield and brownfield projects, which may involve different application domains and technologies.
+
+### Greenfield Development: BlueVelvet Music Store
+
+**BlueVelvet Music Store** is a new e-commerce application whose selected, prioritized features will be developed from scratch. It will demonstrate how AI can support requirements elicitation and refinement, software architecture and interface design, implementation, automated testing, documentation, deployment, and software evolution.
+
+Because the application starts without an existing codebase, this example will illustrate how developers can use AI to explore alternatives, generate initial software artifacts, evaluate proposed solutions, and progressively transform requirements into a working software product.
+
+### Brownfield Development: Sparkling Waters Hostel
+
+**Sparkling Waters Hostel** is an existing hostel management and reservation system developed using Spring Boot and front-end technologies, including HTML, CSS, JavaScript, and Bootstrap. The system includes basic guest management, authentication, and role-based authorization functionality, providing a foundation for software maintenance and evolution activities.
+
+This example will demonstrate how AI can support program comprehension, requirements and architecture recovery, codebase exploration, debugging, refactoring, test generation, documentation improvement, and feature enhancement. Potential evolution activities include improving the existing software design and implementing or enhancing guest reservation management.
+
+The brownfield example will also emphasize that **AI-generated recommendations and changes must be validated** against the existing codebase, architecture, requirements, and tests before being accepted.
+
+The running examples may be updated in future course offerings while preserving their complementary greenfield and brownfield perspectives.
+
+## Learning Objectives
+
+By the end of this course, students will be able to:
+
+1. **Explain** the foundations, capabilities, and limitations of Generative AI and Large Language Models (LLMs).
+2. **Design and evaluate** prompts, structured outputs, and reusable AI interaction patterns for software engineering tasks.
+3. **Apply** AI coding assistants to support software implementation, debugging, refactoring, testing, and documentation.
+4. **Use** AI agents, tools, and agentic workflows while incorporating appropriate human oversight, feedback, and approval mechanisms.
+5. **Design and develop** software applications that integrate AI capabilities through LLM APIs, Retrieval-Augmented Generation (RAG), and local AI models.
+6. **Critically evaluate** AI-generated software artifacts, including requirements, designs, source code, tests, and documentation.
+7. **Assess** software quality, security, privacy, ethical, intellectual property, and governance implications of AI-augmented software engineering.
+8. **Apply** AI-augmented software engineering practices to greenfield development and brownfield software maintenance and evolution.
+9. **Document** AI tool usage, generated outputs, verification evidence, and human decisions concerning their review, correction, and acceptance.
+10. **Develop and evaluate** software increments in greenfield and brownfield projects using responsible AI-augmented software engineering practices.
+
 
 ## Hands-On Activities
 
