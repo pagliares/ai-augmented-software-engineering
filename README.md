@@ -139,11 +139,16 @@ Greenfield and brownfield contexts will be examined separately. In greenfield de
 
 ### Module 5 — AI-Assisted Software Architecture and Design (~66 min)
 
+<details>
+<summary><strong>Module Description</strong></summary>. 
+
 This module examines how AI can support software architecture and design activities. Students will use AI to explore architectural alternatives, create and review software models, identify applicable design patterns, analyze trade-offs, and document design decisions.
 
 The module emphasizes that AI-generated architectures and models are proposals that must be evaluated against functional requirements, quality attributes, technological constraints, organizational context, and existing system evidence. Students will learn to verify the consistency of generated diagrams and descriptions rather than accepting visually plausible models without critical analysis.
 
 Greenfield and brownfield development will be considered separately. In greenfield development, AI can assist with exploring and comparing alternative designs. In brownfield development, AI can support architecture recovery, dependency analysis, identification of design problems, and planning of incremental improvements.
+
+</details>
 
 5.1 Architecture Drivers, Constraints, and AI-Generated Alternatives (~12 min)  
 5.2 UML and System Modeling with AI Assistance (~12 min)  
@@ -154,9 +159,14 @@ Greenfield and brownfield development will be considered separately. In greenfie
 
 ### Module 6 — AI Coding Assistants and AI-Powered Development Environments (~60 min)
 
+<details>
+<summary><strong>Module Description</strong></summary>. 
+
 This module examines how AI coding assistants and AI-powered development environments support software implementation and maintenance.
 
 Representative tools may include GitHub Copilot, Cursor, Claude Code, Codex, Google Antigravity, Google Jules, and other systems available during the course offering. The emphasis is placed on transferable software engineering practices, including context preparation, task decomposition, code comprehension, code review, verification, debugging, refactoring, and responsible acceptance of AI-generated changes.
+
+</details>
 
 6.1 AI Coding Assistants and Development Environments (~10 min)  
 6.2 Context-Aware Code Generation and Completion (~12 min)  
@@ -167,11 +177,16 @@ Representative tools may include GitHub Copilot, Cursor, Claude Code, Codex, Goo
 
 ### Module 7 — Verification and Evaluation of AI-Generated Software Artifacts (~60 min)
 
+<details>
+<summary><strong>Module Description</strong></summary>. 
+
 This module examines how software engineers verify and evaluate artifacts produced or modified with AI assistance.
 
 Students will learn to identify inaccuracies, omissions, unsupported assumptions, inconsistencies, security weaknesses, and quality problems in AI-generated requirements, designs, source code, tests, and documentation.
 
 The module emphasizes systematic human review, traceability among software artifacts, execution-based verification, and the collection of evidence supporting the acceptance, correction, or rejection of AI-generated outputs.
+
+</details>
 
 7.1 Why Verification Matters in AI-Augmented Development (~10 min)  
 7.2 Evaluating AI-Generated Requirements (~10 min)  
@@ -181,11 +196,16 @@ The module emphasizes systematic human review, traceability among software artif
 
 ### Module 8 — AI-Assisted Testing and Quality Assurance (~62 min)
 
+<details>
+<summary><strong>Module Description</strong></summary>. 
+
 This module examines how AI can support software testing and quality assurance while preserving the need for systematic verification and professional judgment. Students will use AI to assist with test design, test-case generation, automated test implementation, regression testing, failure analysis, and test maintenance.
 
 The module also addresses the limitations of AI-generated tests. Students will evaluate whether generated tests reflect intended requirements, contain meaningful assertions, cover relevant boundary conditions, and avoid merely reproducing the assumptions of the implementation being tested.
 
 Students will also be introduced to testing strategies for software features that rely on LLMs or other non-deterministic AI components. Such features may require evaluation datasets, quality criteria, repeated execution, tolerance-based assertions, human evaluation, and monitoring rather than relying exclusively on traditional exact-output assertions.
+
+</details>
 
 8.1 AI-Assisted Test Design and Test Case Generation (~10 min)  
 8.2 Unit, Integration, and Regression Testing with AI Assistance (~12 min)  
@@ -196,11 +216,16 @@ Students will also be introduced to testing strategies for software features tha
 
 ### Module 9 — Human–AI Collaboration and Developer Control (~40 min)
 
+<details>
+<summary><strong>Module Description</strong></summary>. 
+
 This module examines how software engineers collaborate with AI systems while retaining understanding, control, and responsibility for software outcomes. Students will analyze different levels of AI assistance, ranging from suggestions and pair-programming interactions to more autonomous development workflows.
 
 Vibe coding will be examined as an approach in which developers rely heavily on natural-language interactions and AI-generated implementations. Students will evaluate contexts in which rapid AI-assisted experimentation may be useful, as well as situations in which insufficient understanding, verification, or control can introduce unacceptable risks.
 
 The module also considers how AI assistance affects productivity, software quality, learning, technical skill development, and developers' ability to explain, maintain, and evolve the resulting systems.
+
+</details>
 
 9.1 Models of Human–AI Collaboration in Software Engineering (~10 min)  
 9.2 Human-in-the-Loop Development, Approval, and Developer Control (~10 min)  
@@ -209,9 +234,14 @@ The module also considers how AI assistance affects productivity, software quali
 
 ### Module 10 — AI Agents (~56 min)
 
+<details>
+<summary><strong>Module Description</strong></summary>. 
+
 By the end of this module, students will be able to explain the core components and architectural patterns of AI agents, distinguish agents from conventional LLM applications, and design a simple tool-using agent for a greenfield or brownfield software context.
 
 Particular attention will be given to agent state, environmental interactions, tool access, permissions, verification, and human oversight.
+
+</details>
 
 10.1 From LLM Applications to AI Agents (~10 min)  
 10.2 Core Agent Components: Models, Instructions, State, and Environment (~12 min)  
@@ -222,9 +252,14 @@ Particular attention will be given to agent state, environmental interactions, t
 
 ### Module 11 — Agentic Workflows, Human Oversight, and MCP (~60 min)
 
+<details>
+<summary><strong>Module Description</strong></summary>. 
+
 This module examines how AI agents, deterministic operations, external tools, and human decisions can be combined into structured agentic workflows.
 
 The emphasis is placed on task decomposition, orchestration, execution control, approval points, feedback mechanisms, failure handling, and the use of the Model Context Protocol (MCP) to connect AI systems with external tools and contextual resources.
+
+</details>
 
 11.1 Workflows Versus Agents (~10 min)  
 11.2 Task Decomposition, Orchestration, and Execution Control (~12 min)  
@@ -235,9 +270,14 @@ The emphasis is placed on task decomposition, orchestration, execution control, 
 
 ### Module 12 — Building AI-Augmented Applications (~66 min)
 
+<details>
+<summary><strong>Module Description</strong></summary>. 
+
 By the end of this module, students will be able to design, prototype, and evaluate AI-augmented software applications by integrating LLM APIs, Retrieval-Augmented Generation (RAG), and user-facing AI capabilities.
 
 The module emphasizes appropriate architectural and integration patterns, reliability mechanisms, observability practices, and human-centered interface design. Students will also explore AI-assisted UI/UX design, rapid prototyping, and the generation and evaluation of front-end applications.
+
+</details>
 
 12.1 LLM APIs and Application Integration (~12 min)  
 12.2 Retrieval-Augmented Generation (RAG) (~14 min)  
@@ -248,11 +288,16 @@ The module emphasizes appropriate architectural and integration patterns, reliab
 
 ### Module 13 — Local and Open Models (~44 min)
 
+<details>
+<summary><strong>Module Description</strong></summary>
+
 This module introduces open-weight models and local AI development environments. Students will distinguish among open-weight, open-source, and proprietary models and examine how licensing conditions, model availability, and deployment choices affect software engineering decisions.
 
 Using representative tools such as Ollama and LM Studio, students will learn how models can be downloaded, configured, executed, evaluated, and exposed to software applications in local environments.
 
 The module also examines trade-offs involving privacy, confidentiality, hardware requirements, performance, model quality, context capacity, licensing, operational costs, maintenance, and deployment complexity.
+
+</details>
 
 13.1 Open-Weight, Open-Source, and Proprietary Models (~10 min)  
 13.2 Running and Managing Local Models with Ollama (~12 min)  
@@ -261,11 +306,16 @@ The module also examines trade-offs involving privacy, confidentiality, hardware
 
 ### Module 14 — AI-Assisted DevOps, Software Delivery, and Operational Reliability (~52 min)
 
+<details>
+<summary><strong>Module Description</strong></summary>. 
+
 This module examines how AI can support software integration, delivery, deployment, and operational activities. Students will explore AI assistance in Git workflows, pull-request analysis, CI/CD pipeline configuration, quality checks, release preparation, deployment planning, monitoring, and incident investigation.
 
 The module emphasizes that AI should complement rather than replace deterministic build, testing, security, and deployment controls. AI-generated pipeline configurations, review comments, release notes, and deployment recommendations must be validated before being incorporated into operational workflows.
 
 Particular attention will be given to traceability, least-privilege access, human approval, rollback mechanisms, and the protection of credentials, source code, logs, and other sensitive operational information.
+
+</details>
 
 14.1 AI in Git Workflows, Issues, and Pull Requests (~12 min)  
 14.2 AI-Assisted CI/CD Pipeline Development and Maintenance (~12 min)  
@@ -274,9 +324,14 @@ Particular attention will be given to traceability, least-privilege access, huma
 
 ### Module 15 — Responsible AI-Augmented Software Engineering and Future Trends (~50 min)
 
+<details>
+<summary><strong>Module Description</strong></summary>
+
 This module examines the broader responsibilities associated with adopting AI in software engineering. Students will analyze security and privacy risks, copyright and licensing concerns, organizational governance, ethical responsibilities, and the effects of AI on professional roles and practices.
 
 The module concludes by examining how software engineers can adapt to technological change while preserving foundational engineering principles, technical understanding, human accountability, and responsibility for software outcomes.
+
+</details>
 
 15.1 Security Risks of AI-Augmented Development (~12 min)  
 15.2 Privacy, Copyright, Licensing, and Intellectual Property (~12 min)  
