@@ -58,13 +58,19 @@ The course consists of **15 modules and 78 video lessons**, organized into five 
 
 Estimated video durations are indicated for each module and lesson.
 
+
 ### Module 1 — Introduction to AI-Augmented Software Engineering (~52 min)
+
+<details>
+<summary><strong>Module Description</strong></summary>.   
 
 This module introduces AI-Augmented Software Engineering as the systematic use of Artificial Intelligence to support software engineering activities while preserving human understanding, verification, decision-making, and accountability.
 
 Students will examine how Generative AI and related technologies can assist requirements engineering, software architecture and design, implementation, testing, documentation, maintenance, project workflows, deployment, and software evolution. The module distinguishes AI augmentation from deterministic automation and more autonomous agentic execution.
 
 The module also introduces the greenfield and brownfield running examples that will be revisited throughout the course. These examples illustrate how AI-augmented practices must be adapted to the characteristics, evidence, constraints, and risks of each development context.
+
+</details>
 
 1.1 Course Overview, Learning Approach, and Assessment (~8 min)  
 1.2 From Traditional Software Engineering to AI-Augmented Practice (~12 min)  
