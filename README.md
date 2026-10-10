@@ -91,18 +91,6 @@ A dedicated graphics processing unit (GPU) is not a general prerequisite for the
 
 If a student's computer cannot run a selected local model adequately, the instructor may offer an alternative model, shared laboratory environment, remote service, demonstration-based activity, or equivalent analysis task.
 
-### Accounts, Credentials, and Costs
-
-Students are responsible for protecting their accounts, access tokens, API keys, and repository credentials. **Secrets must never be committed to version-control repositories or exposed in submitted prompts, source code, screenshots, logs, or reports.**
-
-Activities involving potential usage-based costs will specify expected limits and available alternatives in advance. Students will not be required to incur unannounced expenses to complete course activities.
-
-### Software and Project Compatibility
-
-Student-selected projects must be compatible with the available development environment and feasible within the course workload.
-
-The instructor may restrict programming languages, frameworks, repository sizes, external dependencies, or deployment environments when necessary to ensure that projects remain technically feasible, adequately supported, and assessable.
-
 ## Running Examples
 
 Throughout the course, two instructor-led examples will demonstrate the practical application of AI-augmented software engineering techniques:
