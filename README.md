@@ -42,27 +42,6 @@ Depending on the module, students may produce **prompts, requirements, user stor
 
 Practical activities must document not only how AI tools were used, but also **how students reviewed, verified, corrected, and refined AI-generated outputs**, including the reasoning behind relevant engineering decisions.
 
-## Prerequisites
-
-### Required Prerequisites
-
-Students should have:
-
-- Foundational knowledge of **object-oriented programming**.
-- Foundational knowledge of **software engineering principles** and the **Software Development Life Cycle (SDLC)**.
-- Basic experience with **Git** and version control workflows.
-- The ability to **build, run, debug, and modify** software written in at least one programming language.
-
-### Recommended Prior Knowledge
-
-Familiarity with the following topics is helpful but not required:
-
-- Unit testing and automated software testing.
-- Web applications and client-server architectures.
-- REST APIs and data formats such as JSON.
-- Command-line tools and dependency management.
-- Relational databases and basic data persistence.
-
 ## Running Examples
 
 Throughout the course, two instructor-led examples will demonstrate the practical application of AI-augmented software engineering techniques:
