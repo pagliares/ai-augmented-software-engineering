@@ -453,7 +453,7 @@ This course is intended for **undergraduate Computer Science students** who have
 
 ## Weekly Workload
 
-The course spans **15 weeks**, with an expected workload of **4 hours per week**, totaling **60 hours**. Each week combines concise theoretical lessons with guided and independent practical activities.
+The course spans **15 weeks**, with an expected workload of **8 hours per week**, totaling **120 hours**. Each week combines concise theoretical lessons with guided and independent practical activities.
 
 Video lessons introduce the concepts, techniques, tools, and running examples associated with each module. The remaining weekly workload is dedicated to readings, exercises, hands-on activities, evaluation of AI-generated artifacts, and incremental development of the greenfield and brownfield projects.
 
