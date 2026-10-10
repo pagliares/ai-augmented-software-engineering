@@ -96,14 +96,18 @@ Students will study tokens, context windows, embeddings, non-deterministic behav
 2.3 Tokens, Context Windows, Embeddings, and Retrieval Foundations (~14 min)  
 2.4 Capabilities, Reasoning Behavior, Hallucinations, and Limitations (~12 min)
 
+### Module 3 — Prompt and Context Engineering for Software Engineers (~64 min). 
 
-### Module 3 — Prompt and Context Engineering for Software Engineers (~64 min)
+<details>
+<summary><strong>Module Description</strong></summary>. 
 
 This module introduces prompt and context engineering techniques for software engineering tasks. Students will learn to define objectives, assign relevant roles, communicate constraints, provide examples, request structured outputs, and progressively refine interactions with AI systems.
 
 Particular attention will be given to context selection. Students will learn to identify and provide relevant requirements, source code, documentation, architectural decisions, coding conventions, test results, and other task-specific information without unnecessarily overloading the model's context window.
 
 The module also emphasizes that prompts and contextual materials are integral parts of an engineering process. Their effectiveness should be evaluated based on the quality, correctness, relevance, reproducibility, and verifiability of the resulting software artifacts.
+
+</details>
 
 3.1 Task Framing and Prompt Design Principles (~10 min)  
 3.2 Context Selection and Repository Instructions (~12 min)  
@@ -112,13 +116,19 @@ The module also emphasizes that prompts and contextual materials are integral pa
 3.5 Greenfield Example: Prompting for New Software Development (~10 min)  
 3.6 Brownfield Example: Prompting with Existing Code and Documentation (~10 min)
 
+
 ### Module 4 — AI-Assisted Requirements Engineering (~62 min)
+
+<details>
+<summary><strong>Module Description</strong></summary>. 
 
 This module examines how AI can support requirements engineering without replacing stakeholder participation, domain expertise, or human decision-making. Students will use AI to assist with requirements elicitation and discovery, question generation, information organization, user-story development, acceptance-criteria definition, ambiguity detection, conflict analysis, prioritization, validation, and traceability.
 
 The module emphasizes that AI-generated requirements are proposals rather than authoritative statements of stakeholder needs. Requirements must be grounded in reliable evidence, reviewed for correctness and feasibility, and approved by the appropriate stakeholders or responsible members of the development team.
 
 Greenfield and brownfield contexts will be examined separately. In greenfield development, AI may help transform an initial problem or product idea into progressively refined requirements. In brownfield development, AI may assist with recovering requirements from source code, tests, documentation, interfaces, issue trackers, and observed system behavior.
+
+</details>
 
 4.1 AI-Supported Requirements Elicitation and Discovery (~10 min)  
 4.2 User Stories, Acceptance Criteria, and Quality Requirements (~12 min)  
