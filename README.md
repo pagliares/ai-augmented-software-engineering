@@ -6,37 +6,6 @@
 **Institution:** Universidade Federal de Alfenas (UNIFAL-MG), Brazil  
 **Course:** Computer Science
 
-## Table of Contents
-
-- [Course Description](#course-description)
-- [Course Statistics](#course-statistics)
-- [Course Structure](#course-structure)
-  - [Unit 1](#unit-1)
-    - [Module 1: Introduction to AI-Augmented Software Engineering](#module-1)
-    - [Module 2: Foundations of Generative AI and Large Language Models](#module-2)
-    - [Module 3: Prompt and Context Engineering for Software Engineers](#module-3)
-  - [Unit 2](#unit-2)
-    - [Module 4: AI-Assisted Requirements Engineering](#module-4)
-    - [Module 5: AI-Assisted Software Architecture and Design](#module-5)
-    - [Module 6: AI Coding Assistants and AI-Powered Development Environments](#module-6)
-    - [Module 7: Verification and Evaluation of AI-Generated Software Artifacts](#module-7)
-    - [Module 8: AI-Assisted Testing and Quality Assurance](#module-8)
-  - [Unit 3](#unit-3)
-    - [Module 9: Human–AI Collaboration and Developer Control](#module-9)
-    - [Module 10: AI Agents](#module-10)
-    - [Module 11: Agentic Workflows, Human Oversight, and MCP](#module-11)
-  - [Unit 4](#unit-4)
-    - [Module 12: Building AI-Augmented Applications](#module-12)
-    - [Module 13: Local and Open Models](#module-13)
-    - [Module 14: AI-Assisted DevOps, Software Delivery, and Operational Reliability](#module-14)
-  - [Unit 5](#unit-5)
-    - [Module 15: Responsible AI-Augmented Software Engineering and Future Trends](#module-15)
-- [Learning Objectives](#learning-objectives)
-- [Target Audience](#target-audience)
-- [Weekly Workload](#weekly-workload)
-- [Running Examples](#running-examples)
-- [Hands-On Activities](#hands-on-activities)
-
 <a id="course-description"></a>
 
 ## Course Description
@@ -53,6 +22,9 @@ The course also addresses the limitations and risks of AI-augmented development,
 
 By the end of the course, students will be prepared not only to use modern AI development tools but also to select appropriate techniques, critically evaluate their results, and responsibly integrate them into systematic software engineering processes.
 
+
+[Back to top](#top)
+
 <a id="course-statistics"></a>
 
 ## Course Statistics
@@ -60,8 +32,44 @@ By the end of the course, students will be prepared not only to use modern AI de
 - **Units:** 5
 - **Modules:** 15
 - **Video lessons:** 78
-- **Video content:** Approximately 30 hours
+- **Estimated video content:** Approximately 14 hours and 10 minutes (based on the lesson outline; subject to revision)
 - **Total student workload:** 120 hours
+
+
+[Back to top](#top)
+
+## Table of Contents
+
+- [Course Description](#course-description)
+- [Course Statistics](#course-statistics)
+- [Course Structure](#course-structure)
+  - [Unit 1 — Foundations of AI-Augmented Software Engineering](#unit-1)
+    - [Module 1 — Introduction to AI-Augmented Software Engineering](#module-1)
+    - [Module 2 — Foundations of Generative AI and Large Language Models](#module-2)
+    - [Module 3 — Prompt and Context Engineering for Software Engineers](#module-3)
+  - [Unit 2 — AI Across the Software Development Life Cycle](#unit-2)
+    - [Module 4 — AI-Assisted Requirements Engineering](#module-4)
+    - [Module 5 — AI-Assisted Software Architecture and Design](#module-5)
+    - [Module 6 — AI Coding Assistants and AI-Powered Development Environments](#module-6)
+    - [Module 7 — Verification and Evaluation of AI-Generated Software Artifacts](#module-7)
+    - [Module 8 — AI-Assisted Testing and Quality Assurance](#module-8)
+  - [Unit 3 — Human–AI Collaboration and Agentic Development](#unit-3)
+    - [Module 9 — Human–AI Collaboration and Developer Control](#module-9)
+    - [Module 10 — AI Agents](#module-10)
+    - [Module 11 — Agentic Workflows, Human Oversight, and MCP](#module-11)
+  - [Unit 4 — Building and Delivering AI-Augmented Applications](#unit-4)
+    - [Module 12 — Building AI-Augmented Applications](#module-12)
+    - [Module 13 — Local and Open Models](#module-13)
+    - [Module 14 — AI-Assisted DevOps, Software Delivery, and Operational Reliability](#module-14)
+  - [Unit 5 — Responsible Practice and Future Directions](#unit-5)
+    - [Module 15 — Responsible AI-Augmented Software Engineering and Future Trends](#module-15)
+- [Learning Objectives](#learning-objectives)
+- [Target Audience](#target-audience)
+- [Weekly Workload](#weekly-workload)
+- [Running Examples](#running-examples)
+- [Hands-On Activities](#hands-on-activities)
+- [Living Book](#living-book)
+- [Course Website](#course-website)
 
 <a id="course-structure"></a>
 
@@ -77,7 +85,7 @@ The course is organized into **5 units, 15 modules, and 78 video lessons**, prog
 
 <a id="module-1"></a>
 
-### Module 1 — Introduction to AI-Augmented Software Engineering (~52 min)
+#### Module 1 — Introduction to AI-Augmented Software Engineering (~52 min)
 
 <details>
 <summary><strong>Module Description</strong></summary>
@@ -98,7 +106,7 @@ The module also introduces the greenfield and brownfield running examples that w
 
 <a id="module-2"></a>
 
-### Module 2 — Foundations of Generative AI and Large Language Models (~52 min)
+#### Module 2 — Foundations of Generative AI and Large Language Models (~52 min)
 
 <details>
 <summary><strong>Module Description</strong></summary>
@@ -118,7 +126,7 @@ Students will study tokens, context windows, embeddings, non-deterministic behav
 
 <a id="module-3"></a>
 
-### Module 3 — Prompt and Context Engineering for Software Engineers (~64 min)
+#### Module 3 — Prompt and Context Engineering for Software Engineers (~64 min)
 
 <details>
 <summary><strong>Module Description</strong></summary>
@@ -138,6 +146,7 @@ The module also emphasizes that prompts and contextual materials are integral pa
 3.5 Greenfield Example: Prompting for New Software Development (~10 min)  
 3.6 Brownfield Example: Prompting with Existing Code and Documentation (~10 min)
 
+
 [Back to top](#top)
 
 <a id="unit-2"></a>
@@ -148,7 +157,7 @@ The module also emphasizes that prompts and contextual materials are integral pa
 
 <a id="module-4"></a>
 
-### Module 4 — AI-Assisted Requirements Engineering (~62 min)
+#### Module 4 — AI-Assisted Requirements Engineering (~62 min)
 
 <details>
 <summary><strong>Module Description</strong></summary>
@@ -170,7 +179,7 @@ Greenfield and brownfield contexts will be examined separately. In greenfield de
 
 <a id="module-5"></a>
 
-### Module 5 — AI-Assisted Software Architecture and Design (~66 min)
+#### Module 5 — AI-Assisted Software Architecture and Design (~66 min)
 
 <details>
 <summary><strong>Module Description</strong></summary>
@@ -192,7 +201,7 @@ Greenfield and brownfield development will be considered separately. In greenfie
 
 <a id="module-6"></a>
 
-### Module 6 — AI Coding Assistants and AI-Powered Development Environments (~60 min)
+#### Module 6 — AI Coding Assistants and AI-Powered Development Environments (~60 min)
 
 <details>
 <summary><strong>Module Description</strong></summary>
@@ -212,7 +221,7 @@ Representative tools may include GitHub Copilot, Cursor, Claude Code, Codex, Goo
 
 <a id="module-7"></a>
 
-### Module 7 — Verification and Evaluation of AI-Generated Software Artifacts (~60 min)
+#### Module 7 — Verification and Evaluation of AI-Generated Software Artifacts (~60 min)
 
 <details>
 <summary><strong>Module Description</strong></summary>
@@ -233,7 +242,7 @@ The module emphasizes systematic human review, traceability among software artif
 
 <a id="module-8"></a>
 
-### Module 8 — AI-Assisted Testing and Quality Assurance (~62 min)
+#### Module 8 — AI-Assisted Testing and Quality Assurance (~62 min)
 
 <details>
 <summary><strong>Module Description</strong></summary>
@@ -253,6 +262,7 @@ Students will also be introduced to testing strategies for software features tha
 8.5 Greenfield Example: Designing and Implementing a Test Strategy (~10 min)  
 8.6 Brownfield Example: Characterization Testing and Increasing Legacy Test Coverage (~10 min)
 
+
 [Back to top](#top)
 
 <a id="unit-3"></a>
@@ -263,7 +273,7 @@ Students will also be introduced to testing strategies for software features tha
 
 <a id="module-9"></a>
 
-### Module 9 — Human–AI Collaboration and Developer Control (~40 min)
+#### Module 9 — Human–AI Collaboration and Developer Control (~40 min)
 
 <details>
 <summary><strong>Module Description</strong></summary>
@@ -283,7 +293,7 @@ The module also considers how AI assistance affects productivity, software quali
 
 <a id="module-10"></a>
 
-### Module 10 — AI Agents (~56 min)
+#### Module 10 — AI Agents (~56 min)
 
 <details>
 <summary><strong>Module Description</strong></summary>
@@ -303,7 +313,7 @@ Particular attention will be given to agent state, environmental interactions, t
 
 <a id="module-11"></a>
 
-### Module 11 — Agentic Workflows, Human Oversight, and MCP (~60 min)
+#### Module 11 — Agentic Workflows, Human Oversight, and MCP (~60 min)
 
 <details>
 <summary><strong>Module Description</strong></summary>
@@ -321,6 +331,7 @@ The emphasis is placed on task decomposition, orchestration, execution control, 
 11.5 Introduction to the Model Context Protocol (MCP) (~8 min)  
 11.6 MCP Servers, Tools, and Development Environments (~8 min)
 
+
 [Back to top](#top)
 
 <a id="unit-4"></a>
@@ -331,7 +342,7 @@ The emphasis is placed on task decomposition, orchestration, execution control, 
 
 <a id="module-12"></a>
 
-### Module 12 — Building AI-Augmented Applications (~66 min)
+#### Module 12 — Building AI-Augmented Applications (~66 min)
 
 <details>
 <summary><strong>Module Description</strong></summary>
@@ -351,7 +362,7 @@ The module emphasizes appropriate architectural and integration patterns, reliab
 
 <a id="module-13"></a>
 
-### Module 13 — Local and Open Models (~44 min)
+#### Module 13 — Local and Open Models (~44 min)
 
 <details>
 <summary><strong>Module Description</strong></summary>
@@ -371,7 +382,7 @@ The module also examines trade-offs involving privacy, confidentiality, hardware
 
 <a id="module-14"></a>
 
-### Module 14 — AI-Assisted DevOps, Software Delivery, and Operational Reliability (~52 min)
+#### Module 14 — AI-Assisted DevOps, Software Delivery, and Operational Reliability (~52 min)
 
 <details>
 <summary><strong>Module Description</strong></summary>
@@ -389,6 +400,7 @@ Particular attention will be given to traceability, least-privilege access, huma
 14.3 Quality Gates, Security Checks, and Release Readiness (~14 min)  
 14.4 Deployment, Release Management, Monitoring, and Rollback (~14 min)
 
+
 [Back to top](#top)
 
 <a id="unit-5"></a>
@@ -399,7 +411,7 @@ Particular attention will be given to traceability, least-privilege access, huma
 
 <a id="module-15"></a>
 
-### Module 15 — Responsible AI-Augmented Software Engineering and Future Trends (~50 min)
+#### Module 15 — Responsible AI-Augmented Software Engineering and Future Trends (~50 min)
 
 <details>
 <summary><strong>Module Description</strong></summary>
@@ -437,6 +449,7 @@ By the end of this course, students will be able to:
 9. **Document** AI tool usage, generated outputs, verification evidence, and human decisions concerning their review, correction, and acceptance.
 10. **Develop and evaluate** software increments in greenfield and brownfield projects using responsible AI-augmented software engineering practices.
 
+
 [Back to top](#top)
 
 <a id="target-audience"></a>
@@ -446,6 +459,7 @@ By the end of this course, students will be able to:
 This course is intended for **undergraduate Computer Science students** who have completed introductory courses in programming and software engineering. It is particularly suitable for students who are comfortable reading, writing, testing, and modifying software systems.
 
 **No prior experience with Artificial Intelligence (AI), Machine Learning (ML), Large Language Models (LLMs), or AI coding assistants is required.** The necessary conceptual foundations and practical techniques will be introduced progressively throughout the course.
+
 
 [Back to top](#top)
 
@@ -468,6 +482,7 @@ A typical week includes:
 Depending on the module, students may produce **prompts, requirements, user stories, architectural models, source code, automated tests, documentation, evaluation reports, or working software increments**.
 
 Practical activities must document not only how AI tools were used, but also **how students reviewed, verified, corrected, and refined AI-generated outputs**, including the reasoning behind relevant engineering decisions.
+
 
 [Back to top](#top)
 
@@ -498,6 +513,7 @@ The brownfield example will also emphasize that **AI-generated recommendations a
 
 The running examples may be updated in future course offerings while preserving their complementary greenfield and brownfield perspectives.
 
+
 [Back to top](#top)
 
 <a id="hands-on-activities"></a>
@@ -523,5 +539,34 @@ Students are expected to retain relevant **evidence of AI-assisted development**
 
 The purpose of this evidence is **not to document every interaction with an AI system**, but to demonstrate meaningful AI assistance, critical evaluation, verification, and student accountability for the resulting software artifacts.
 
+
 [Back to top](#top)
+
+<a id="living-book"></a>
+
+## Living Book
+
+A **living book on AI-Augmented Software Engineering** is being developed alongside the course. It will progressively consolidate and expand the concepts, techniques, tools, examples, and practical insights introduced throughout the 15 modules.
+
+Unlike a traditional textbook, the living book is intended to evolve as AI technologies and software engineering practices advance. Its content will be reviewed and refined as new developments and lessons learned become available.
+
+The living book will complement the video lessons, hands-on activities, and greenfield and brownfield projects. It is intended as an evolving reference for students, educators, and software engineering practitioners.
+
+**Status:** Under development. Access details will be provided when the initial chapters are available.
+
+
+[Back to top](#top)
+
+<a id="course-website"></a>
+
+## Course Website
+
+The course website will serve as the primary instructional hub for detailed hands-on activities, semester-specific greenfield and brownfield assignments, assessment guidelines, schedules, technical setup instructions, and academic integrity policies.
+
+This GitHub repository complements the website by providing the course overview, module outline, source code, running examples, and technical artifacts.
+
+**Status:** In development. The website link will be added when available.
+
+[Back to top](#top)
+
 
