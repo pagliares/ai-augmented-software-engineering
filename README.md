@@ -80,16 +80,22 @@ The module also introduces the greenfield and brownfield running examples that w
 
 ### Module 2 — Foundations of Generative AI and Large Language Models (~52 min)
 
+<details>
+<summary><strong>Module Description</strong></summary>. 
+
 This module introduces the technical foundations necessary to understand and responsibly use Generative AI systems in software engineering. Students will distinguish among Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI and examine the fundamental principles underlying Large Language Models (LLMs).
 
 The module presents a practical mental model of how LLMs are trained, process contextual input, and generate outputs through probabilistic token prediction. It also distinguishes the language model itself from the surrounding application, which may provide user interfaces, conversation history, external knowledge, retrieval mechanisms, tools, and execution environments.
 
 Students will study tokens, context windows, embeddings, non-deterministic behavior, hallucinations, and other limitations that affect the correctness and reliability of AI-assisted software engineering activities.
 
+</details>
+
 2.1 Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI (~12 min)  
 2.2 How Large Language Models Are Trained and Generate Outputs (~14 min)  
 2.3 Tokens, Context Windows, Embeddings, and Retrieval Foundations (~14 min)  
 2.4 Capabilities, Reasoning Behavior, Hallucinations, and Limitations (~12 min)
+
 
 ### Module 3 — Prompt and Context Engineering for Software Engineers (~64 min)
 
